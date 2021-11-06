@@ -1,5 +1,4 @@
 #!/bin/sh
-brew install git
 brew install python@3.10
 brew install node
 brew install vim
