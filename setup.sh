@@ -12,3 +12,12 @@ brew install --cask visual-studio-code
 
 brew install --cask iterm2
 brew install --cask firefox
+
+# Android Studio
+brew install gradle
+brew install --cask android-studio
+brew install --cask android-platform-tools
+
+# iOS dev
+brew install ios-deploy
+sudo gem install cocoapods
